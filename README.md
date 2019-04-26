@@ -1,1 +1,0 @@
-<h1>Student-Registration-and-Fee-Management-System</h1>
